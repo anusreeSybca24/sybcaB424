@@ -6,5 +6,10 @@ public class B4DemoClass {
 		// TODO Auto-generated method stub
 		System.out.println("Github Hello world");
 	}
+	
+	void display() {
+		System.out.println("branch ");
+	}
+	
 
 }
