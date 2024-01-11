@@ -7,4 +7,7 @@ public class B4DemoClass {
 		System.out.println("Github Hello world");
 	}
 
+	void newdisplay() {
+		System.out.println("branch pull request");
+	}
 }
