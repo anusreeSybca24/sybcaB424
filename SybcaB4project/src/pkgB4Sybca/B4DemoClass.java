@@ -9,6 +9,6 @@ public class B4DemoClass {
   
 	
 	void display2() {
-		System.out.println("Github branch");
+		System.out.println("Github branch pull");
 	}
 }
