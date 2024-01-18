@@ -6,9 +6,15 @@ public class B4DemoClass {
 		// TODO Auto-generated method stub
 		System.out.println("Github Hello world");
 	}
+ ver3
   
 	
 	void display2() {
 		System.out.println("Github branch pull");
+
+
+	void newdisplay() {
+		System.out.println("branch pull request");
+ master
 	}
 }
